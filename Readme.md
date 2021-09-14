@@ -23,8 +23,7 @@ The UI is not upto the standard, No known bugs. Please contact me if you experie
 ## Support and contact details
 For any inquiries kindly Reach me on +254 702 637 380 0r Email: kiprotichbernard780@gmail.com
 ### License
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
-Copyright (c) {year} **{List of contributors or company name}**
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ## License
 Copyright ©2021 Langat T Kipkirui
