@@ -21,7 +21,7 @@ The UI is not upto the standard, No known bugs. Please contact me if you experie
     *HTML
 
 ## Support and contact details
-{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}
+For any inquiries kindly Reach me on +254 702 637 380 0r Email: kiprotichbernard780@gmail.com
 ### License
 *{Determine the license under which this application can be used.  See below for more details on licensing.}*
 Copyright (c) {year} **{List of contributors or company name}**
