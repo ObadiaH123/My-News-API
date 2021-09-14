@@ -53,9 +53,12 @@ p{
     font-size: 30px;
     font-weight: bold;
 }
-.navbar-collapse{
-    text-align: center;
-    background-color: chartreuse;
-    /* color: white; */
+.navbar-brand img{
+    height: 50px;
+    width: 50px;
+    margin-top: -5px;
+    margin-right: -5px;
+    margin-left: -5px;
+    border-radius: 50%;
 }
 
