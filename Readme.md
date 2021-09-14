@@ -1,6 +1,6 @@
-# {My News API}
-#### {Python Application for News}, {Version 1.0}
-#### By **{Kiprotich Bett Benard}**
+# My News API
+#### Python Application for News, Version 1.0
+#### By **Kiprotich Bett Benard**
 ## Description
 This is a python program that enables a user to have access to latest news articles from various news sources. The sources are 5 categories namely:
     * General sources.
