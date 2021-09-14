@@ -47,6 +47,10 @@ p{
     background-color: #035191;
     /* color: white; */
     font-family: 'Akaya Kanadaka';
-    font-size: 20px;
+    font-size: 25px;
+}
+.navbar-brand{
+    font-size: 30px;
+    font-weight: bold;
 }
 
