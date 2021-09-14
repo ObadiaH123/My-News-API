@@ -53,4 +53,9 @@ p{
     font-size: 30px;
     font-weight: bold;
 }
+.navbar-collapse{
+    text-align: center;
+    background-color: chartreuse;
+    /* color: white; */
+}
 
