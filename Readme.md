@@ -2,7 +2,12 @@
 #### {Python Application for News}, {Version 1.0}
 #### By **{Kiprotich Bett Benard}**
 ## Description
-{This is a detailed description of your application, including its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }
+This is a python program that enables a user to have access to latest news articles from various news sources. The sources are 5 categories namely:
+    * General sources.
+    * Sports.
+    * Entertainment.
+    * Technology.
+    * Business.
 ## Setup/Installation Requirements
 * This is a great place
 * to list setup instructions
