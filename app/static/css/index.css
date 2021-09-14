@@ -43,3 +43,9 @@ p{
 .Date{
     font-family: 'Akaya Kanadaka', cursive;
 }
+.navbar{
+    background-color: #035191;
+    /* color: white; */
+    font-family: 'Akaya Kanadaka';
+}
+
