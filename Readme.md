@@ -25,8 +25,8 @@ For any inquiries kindly Reach me on +254 702 637 380 0r Email: kiprotichbernard
 ### License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-## License
-Copyright ©2021 Langat T Kipkirui
+
+Copyright ©2021 Kiprotich Bett Benard
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
